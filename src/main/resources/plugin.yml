@@ -1,0 +1,4 @@
+name: TNTWars
+version: '${project.version}'
+main: nl.officialfox.tntwars.TNTWars
+api-version: '1.20'
